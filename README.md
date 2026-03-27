@@ -4,14 +4,15 @@ With the rapid advancement of image generation models such as DALL·E and MidJou
 
 Despite significant progress in detection techniques—including deep learning models, frequency-domain analysis, and input manipulation—generalization and accuracy remain major challenges. This work aims to explore and improve detection performance across diverse datasets.
 
-🎯 Objectives
+Objectives:
 Develop models to classify images as:
 AI-generated
 Human-created
 Address dataset imbalance issues
 Improve generalization across styles and domains
 Compare different detection paradigms
-📂 Datasets
+
+Datasets:
 1. AI Recognition Dataset
 ~17,900 AI-generated images
 Sources include:
@@ -22,13 +23,13 @@ MidJourney
 ~500,000 artwork images
 Categorized by genre
 Used to enrich diversity of human-created samples
-⚖️ Data Balancing
+Data Balancing
 
 Due to imbalance between AI and real images:
 
 A random subset of AI images is used
 Ensures fair training and evaluation
-🧪 Methodology
+Methodology
 
 This project explores three major research directions:
 
