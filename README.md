@@ -26,7 +26,7 @@ Used to enrich diversity of human-created samples
 Data Balancing
 
 Methodology:
-This project explores three major approach.
+This project explores three major approaches.
 
 1. Frequency-Domain Forensics
 Detect artifacts in Fourier space
