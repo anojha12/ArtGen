@@ -25,9 +25,6 @@ Categorized by genre
 Used to enrich diversity of human-created samples
 Data Balancing
 
-Due to imbalance between AI and real images:
-A random subset of AI images is used which ensures fair training and evaluation.
-
 Methodology:
 This project explores three major approach.
 
