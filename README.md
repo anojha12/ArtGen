@@ -27,11 +27,10 @@ Data Balancing
 
 Due to imbalance between AI and real images:
 
-A random subset of AI images is used
-Ensures fair training and evaluation
-Methodology
+A random subset of AI images is used which ensures fair training and evaluation.
 
-This project explores three major research directions:
+Methodology:
+This project explores three major approach:
 
 1. Frequency-Domain Forensics
 Detect artifacts in Fourier space
